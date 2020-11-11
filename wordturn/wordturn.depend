@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604740705 source:f:\git\path\to\repository\huaweijishi20201107\wordturn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
